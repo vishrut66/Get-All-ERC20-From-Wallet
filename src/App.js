@@ -102,6 +102,7 @@ function App() {
 
       <h2>I know UI if not so good but it'work! (update comes soon!!)</h2>
 
+      <h3> Created by Vishrut </h3>
       <h1>Connect MetaMask</h1>
       <button onClick={connectButton}>Connect Wallet</button>
       <br />
